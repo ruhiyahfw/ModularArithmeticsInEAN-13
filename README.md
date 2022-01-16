@@ -15,5 +15,5 @@ persamaan berikut</br>
 ![ean-formula](ean.png)
 
 ## Cara menjalankan program
-gcc ean.c
+gcc ean.c</br>
 ean
